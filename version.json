@@ -1,0 +1,5 @@
+{
+  "version": "1.1",
+  "url": "https://github.com/mfurqanptv-spec/teachtalk-releases/releases/latest/download/TeachTalkSetup.exe",
+  "notes": "Installs correctly while TeachTalk is running. Neural noise removal (RNNoise). Screen-reader focus no longer jumps when people talk."
+}
