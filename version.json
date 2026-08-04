@@ -1,5 +1,5 @@
 {
-  "version": "1.1",
+  "version": "1.2",
   "url": "https://github.com/mfurqanptv-spec/teachtalk-releases/releases/latest/download/TeachTalkSetup.exe",
-  "notes": "Installs correctly while TeachTalk is running. Neural noise removal (RNNoise). Screen-reader focus no longer jumps when people talk."
+  "notes": "Self-updating from now on. Microphone is the master clock, so voices keep their natural pitch on every device. Neural noise removal on your own microphone. Recordings now save to Music and survive uninstalling. Recording alerts the channel. Custom hotkeys including the push-to-talk key. Clean upgrades and uninstall."
 }
