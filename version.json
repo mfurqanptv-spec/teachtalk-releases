@@ -1,5 +1,5 @@
 {
-  "version": "1.2",
-  "url": "https://github.com/mfurqanptv-spec/teachtalk-releases/releases/latest/download/TeachTalkSetup.exe",
-  "notes": "Self-updating from now on. Microphone is the master clock, so voices keep their natural pitch on every device. Neural noise removal on your own microphone. Recordings now save to Music and survive uninstalling. Recording alerts the channel. Custom hotkeys including the push-to-talk key. Clean upgrades and uninstall."
+  "version": "3.2",
+  "url": "https://github.com/mfurqanptv-spec/teachtalk-releases/releases/download/v3.2/TeachTalkSetup.exe",
+  "notes": "Fixes the SDK trial-expired startup popup in this build, audio shutdown and device refresh crashes, shared-music dropouts, and unintended whole-PC capture with selected applications. Preserves preferences and prevents recording filename collisions. Improves update error reporting and incomplete-download handling. Includes MP3, WAV and FLAC recording."
 }
